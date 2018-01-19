@@ -1,0 +1,94 @@
+
+/*######################################*/
+/*##########   HEADER   ################*/
+/*######################################*/
+
+header{
+	
+	color: white;
+	font-size: 50px;
+	margin-bottom: 10px;
+	text-align: center;
+	margin-bottom: 0px;
+
+}
+#logo{
+	
+	background-color: #384f5d;
+	padding-bottom: 25px;
+}
+/*######################################*/
+/*##########   MAIN   ################*/
+/*######################################*/
+
+main{
+	background-color: #ffca0d;
+	color: black;
+	font-size: 50px;
+	margin-bottom: 10px;
+	text-align: center;
+	
+
+}
+/*######################################*/
+/*##########  CONNEXION   ##############*/
+/*######################################*/
+#connexion{
+		width: 90%;
+	height: 300px;
+	border: solid 2px black;
+	margin: 0 auto;
+}
+
+/*######################################*/
+/*##########    CHOIX     ##############*/
+/*######################################*/
+#choixParGenre{
+	width: 90%;
+	height: 180px;
+	border: solid 2px black;
+	margin: 0 auto;
+
+}
+#tousLesFilms{
+	width: 90%;
+	height: 180px;
+	border: solid 2px black;
+	margin: 0 auto;
+}
+
+
+
+
+
+/*######################################*/
+/*##########   FOOTER   ################*/
+/*######################################*/
+#footer{
+	width: 95%;
+	height: 150px;
+	margin: 0 auto;	
+
+}
+.footer{
+
+}
+
+footer{
+	background-color: #384f5d;
+	color: white;
+	font-size: 30px;
+	margin-bottom: 10px;
+	text-align: center;
+	margin-top: -30px;
+
+}
+#name{
+	padding-left: 50px;
+	padding-top: 30px;
+	
+}
+
+span{
+	margin-bottom: 20px;
+}

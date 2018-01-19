@@ -1,0 +1,29 @@
+#footer{
+	width: 95%;
+	height: 180px;
+	margin: 0 auto;	
+
+}
+.footer{
+
+}
+
+footer{
+	
+	color: white;
+	font-size: 50px;
+	margin-bottom: 10px;
+	text-align: center;
+
+}
+#name{
+	padding-left: 50px;
+	padding-top: 30px;
+}
+
+span{
+	margin-bottom: 20px;
+}
+#foo{
+	border: solid 3px white;
+}

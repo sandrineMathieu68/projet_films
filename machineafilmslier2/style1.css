@@ -1,0 +1,112 @@
+
+/*######################################*/
+/*##########   HEADER   ################*/
+/*######################################*/
+
+header{
+	
+	color: white;
+	font-size: 50px;
+	margin-bottom: 10px;
+	text-align: center;
+	margin-bottom: 0px;
+
+}
+#logo{
+	
+	background-color: #384f5d;
+	padding-bottom: 25px;
+}
+/*######################################*/
+/*##########   MAIN   ################*/
+/*######################################*/
+
+main{
+	background-color: white;
+	color: black;
+	font-size: 50px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-bottom: 20px;
+	
+
+}
+#affichage{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around ;
+	background-color: #384f5d;
+	font-size: 18px;
+	padding: 20 20;
+
+
+}
+#case{
+	width: 200px;
+	height: 200px;
+	background-color: #e65336;
+	font-size: 18px;
+
+}
+/*######################################*/
+/*##########  CONNEXION   ##############*/
+/*######################################*/
+#connexion{
+		width: 90%;
+	padding-top: 20px;
+	color: #e65336;
+	margin: 0 auto;
+}
+
+/*######################################*/
+/*##########    CHOIX     ##############*/
+/*######################################*/
+#choixParGenre{
+	width: 90%;
+	color: #384f5d;
+	
+	margin: 0 auto;
+
+}
+#tousLesFilms{
+	width: 90%;
+	color: #e65336;
+	
+	margin: 0 auto;
+}
+
+
+
+
+
+/*######################################*/
+/*##########   FOOTER   ################*/
+/*######################################*/
+#footer{
+	width: 95%;
+	padding-bottom: 15px;
+	margin: 0 auto;	
+
+}
+.footer{
+
+}
+
+footer{
+	background-color: #384f5d;
+	color: white;
+	font-size: 30px;
+	margin-bottom: 10px;
+	text-align: center;
+	margin-top: -30px;
+
+}
+#name{
+	padding-left: 50px;
+	padding-top: 15px;
+	
+}
+
+span{
+	margin-bottom: 20px;
+}
